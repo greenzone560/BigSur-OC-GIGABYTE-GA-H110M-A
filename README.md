@@ -2,6 +2,7 @@ BigSur-OC-GIGABYTE-GA-H110M-A-AMD-R9-290
 
 * WIFI - Fenvi T919 - Works Natively
 * AMD Radeon R9 290 - Works fully with a config mod
+* Intel i7 6700k - Recognized as i5 but all cores are active and good cinebench scores
 * Sound - Works through Internal(select in sound settings Internal Speakers)
 * Handoff and iMessage - Works (generate your own SMBios)
 
